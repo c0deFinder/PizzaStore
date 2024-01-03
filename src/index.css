@@ -1,0 +1,54 @@
+
+.box {
+    margin: 1rem;   
+}
+.inputCorreo {
+    width: 30rem;
+}
+.inputText {
+    height: 5rem;
+}
+.tittle {
+    text-align: center;
+}
+#tittle2 {
+    color: crimson;
+}
+.logo {
+    margin: 1rem;
+}
+
+.DropPrices {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+}
+.header {
+    background-color: crimson;
+}
+
+#PizzaTittle {
+    background-color: crimson;
+    padding: 0.25rem;
+    color: yellow;
+}
+.SliceLog {
+    height: 1.8rem;
+    margin-right: 4px;
+}
+#box2 {
+    width: 30rem;
+    background-color: gold;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+.contenedor {
+    margin: 1rem;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text0 {
+    color: crimson;
+}
