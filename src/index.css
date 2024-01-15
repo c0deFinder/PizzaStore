@@ -16,6 +16,7 @@
 }
 .logo {
     margin: 1rem;
+    
 }
 
 .DropPrices {
@@ -52,3 +53,19 @@
 .text0 {
     color: crimson;
 }
+
+@media screen and (max-width: 600px) {
+    .logo {
+      
+      width: 360px;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .logo {
+      
+      width: 280px;
+    }
+    .barra {
+        text-align: center;
+    }
+  }
